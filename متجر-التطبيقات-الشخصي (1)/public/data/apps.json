@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "1721757600000",
+    "name": "تطبيق الطقس",
+    "description": "أفضل تطبيق لمعرفة حالة الطقس بدقة وتوقعات مستقبلية.",
+    "downloadUrl": "#",
+    "imageUrl": "https://picsum.photos/seed/weather/400/300",
+    "size": "25 ميجابايت",
+    "category": "الأدوات"
+  },
+  {
+    "id": "1721757600001",
+    "name": "محرر الصور الاحترافي",
+    "description": "قم بتحرير صورك كالمحترفين مع مجموعة واسعة من الفلاتر والأدوات.",
+    "downloadUrl": "#",
+    "imageUrl": "https://picsum.photos/seed/editor/400/300",
+    "size": "60 ميجابايت",
+    "category": "التصوير"
+  },
+  {
+    "id": "1721757600002",
+    "name": "مدير الملفات الذكي",
+    "description": "نظم ملفاتك بسهولة وسرعة مع هذا المدير الذكي والفعال.",
+    "downloadUrl": "#",
+    "imageUrl": "https://picsum.photos/seed/files/400/300",
+    "size": "15 ميجابايت",
+    "category": "الإنتاجية"
+  },
+  {
+    "id": "1721757600003",
+    "name": "لعبة مغامرات الغابة",
+    "description": "انطلق في مغامرة مثيرة في أعماق الغابة المجهولة.",
+    "downloadUrl": "#",
+    "imageUrl": "https://picsum.photos/seed/game/400/300",
+    "size": "120 ميجابايت",
+    "category": "الألعاب"
+  }
+]
